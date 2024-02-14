@@ -10,5 +10,5 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .letter {
-    transition: color 1000ms;
+    transition: color 2000ms;
     }
