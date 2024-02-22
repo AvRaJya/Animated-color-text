@@ -3,10 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: orchid
+    background-color: teal;
     }
     h1 {
-    font-size: 5 rem;
+    font-size: 20 rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .letter {
