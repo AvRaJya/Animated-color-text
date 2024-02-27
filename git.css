@@ -6,7 +6,7 @@ body {
     background-color: beige;
     }
     h1 {
-    font-size: 50 rem;
+    font-size: 50 vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .letter {
